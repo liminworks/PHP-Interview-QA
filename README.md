@@ -1,6 +1,14 @@
 # PHP 面试问答
 
-> PHP 很没前途，请把工作留给我，谢谢！一份面向 PHP 工程师的面试问答指南 —— 汇总真实面试中的高频考点，覆盖 PHP 语言、数据结构与算法、计算机网络、设计模式、存储与中间件、架构、操作系统、安全、Web 等方向，力求用简洁准确的答案帮你从容应对从初级到架构师的各级面试。
+
+[![GitHub Repo stars](https://img.shields.io/github/stars/colinlet/PHP-Interview-QA)](https://github.com/colinlet/PHP-Interview-QA/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/colinlet/PHP-Interview-QA)](https://github.com/colinlet/PHP-Interview-QA/forks)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+[![Last Updated](https://img.shields.io/badge/最后更新-2026--05--02-green.svg)](#)
+
+> PHP 很没前途，请把工作留给我，谢谢！
+
+系统性整理 PHP 技术面试高频问题，覆盖 PHP 语言、数据结构与算法、计算机网络、设计模式、存储与中间件、架构与分布式、操作系统与服务器、安全、Web、番外等方向。每道题包含一句话结论、体系讲解、追问链、易错点与可运行代码示例。
 
 ## 求职行动链
 
