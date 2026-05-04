@@ -5,8 +5,7 @@
   "scripts": {
     "dev": "vitepress dev",
     "build": "vitepress build",
-    "preview": "vitepress preview",
-    "rebuild-indexes": "python3 scripts/rebuild_all_indexes.py && python3 scripts/build_difficulty_index.py"
+    "preview": "vitepress preview"
   },
   "devDependencies": {
     "vitepress": "^1.6.3"
