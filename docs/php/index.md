@@ -32,3 +32,4 @@
 |:---:|---|
 | 高 | [PHP 的垃圾回收机制是如何工作的](PHP垃圾回收机制.md) |
 | 中 | [PHP zval 内部结构是什么？写时复制（COW）机制如何工作？](zval内部结构与写时复制机制.md) |
+| 中 | [WeakReference 与 WeakMap 如何避免引用计数陷阱？](WeakReference与WeakMap避免引用计数陷阱.md) |

@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "PHP 面试问答"
   text: "PHP 中大厂面试题库"
-  tagline: "50 道精选题 · L1–L5 难度全覆盖 · 系统化备战面试"
+  tagline: "55 道精选题 · L1–L5 难度全覆盖 · 系统化备战面试"
   actions:
     - theme: brand
       text: 按主题浏览 →

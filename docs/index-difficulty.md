@@ -1,8 +1,8 @@
 # 难度索引（L1 → L5）
 
-> 共 50 题，按难度分级 · 同级内按主题优先级排序
+> 共 55 题，按难度分级 · 同级内按主题优先级排序
 
-## L1 初级（16 题）
+## L1 初级（20 题）
 
 | 主题 | 频率 | 题目 |
 |---|:---:|---|
@@ -12,16 +12,20 @@
 | PHP 语言篇 | 高 | [isset() 与 empty() 有什么区别](php/isset与empty的区别.md) |
 | PHP 语言篇 | 中 | [PHP 动态语言特性与静态语言的区别](php/PHP动态语言特性与静态语言的区别.md) |
 | PHP 语言篇 | 中 | [PHP 单引号与双引号字符串的区别](php/PHP单引号与双引号字符串的区别.md) |
+| 数据结构与算法篇 | 高 | [从代码片段推导时间复杂度（循环嵌套与提前退出）](algorithm/从代码片段推导时间复杂度循环嵌套与提前退出.md) |
+| 数据结构与算法篇 | 高 | [常见数据结构的分类与典型操作复杂度](algorithm/常见数据结构的分类与典型操作复杂度.md) |
+| 数据结构与算法篇 | 高 | [算法复杂度分析与 Big-O 表示法](algorithm/算法复杂度分析与Big-O表示法.md) |
+| 数据结构与算法篇 | 中 | [最坏、平均与最好：插入排序与二分查找](algorithm/最坏平均与最好情况插入排序与二分查找.md) |
+| 数据结构与算法篇 | 中 | [算法评价维度：稳定性、原地性与实现成本](algorithm/算法评价维度稳定性原地性与实现成本.md) |
+| 计算机网络篇 | 高 | [GET 和 POST 请求的区别](network/GET和POST请求的区别.md) |
+| 设计模式篇 | 高 | [设计模式的三大分类与意图](design-pattern/设计模式的三大分类与意图.md) |
 | 存储与中间件篇 | 高 | [MySQL 中各种 JOIN 的区别是什么？](storage/MySQL各种JOIN的区别.md) |
 | 存储与中间件篇 | 高 | [Redis 有哪五种基本数据类型？各自适用什么场景？](storage/Redis五种数据类型与适用场景.md) |
 | 存储与中间件篇 | 高 | [什么是数据库三范式？各范式分别解决了什么问题？](storage/数据库三范式与反范式设计.md) |
+| 操作系统与服务器篇 | 高 | [PHP 开发常用 Linux 命令：文件查找、进程与网络诊断](server/PHP开发常用Linux命令.md) |
+| 安全篇 | 高 | [XSS 攻击类型与防御方案](security/XSS攻击类型与防御方案.md) |
 | Web 篇 | 高 | [HTTP 常见状态码含义与 301 和 302 的区别](web/HTTP状态码含义与301和302的区别.md) |
 | Web 篇 | 高 | [PHP 主流框架对比与选型概览](web/PHP主流框架对比与选型概览.md) |
-| 计算机网络篇 | 高 | [GET 和 POST 请求的区别](network/GET和POST请求的区别.md) |
-| 安全篇 | 高 | [XSS 攻击类型与防御方案](security/XSS攻击类型与防御方案.md) |
-| 设计模式篇 | 高 | [设计模式的三大分类与意图](design-pattern/设计模式的三大分类与意图.md) |
-| 数据结构与算法篇 | 高 | [算法复杂度分析与 Big-O 表示法](algorithm/算法复杂度分析与Big-O表示法.md) |
-| 操作系统与服务器篇 | 高 | [PHP 开发常用 Linux 命令：文件查找、进程与网络诊断](server/PHP开发常用Linux命令.md) |
 
 ## L2 中级（22 题）
 
@@ -35,41 +39,42 @@
 | PHP 语言篇 | 高 | [什么是依赖注入？它解决了什么问题？](php/依赖注入与控制反转.md) |
 | PHP 语言篇 | 高 | [抽象类与接口的区别及使用场景](php/抽象类与接口的区别及使用场景.md) |
 | PHP 语言篇 | 高 | [PHP 魔术方法是什么？__get/__set/__call 各适用于哪些场景？](php/魔术方法与属性方法重载.md) |
-| PHP 语言篇 | 中 | [Late Static Binding 是什么及 static:: 与 self:: 的区别](php/LateStaticBinding与self和static的区别.md) |
+| PHP 语言篇 | 中 | ["Late Static Binding 是什么及 static:: 与 self:: 的区别"](php/LateStaticBinding与self和static的区别.md) |
 | PHP 语言篇 | 中 | [PHP 多范式编程与场景选型](php/PHP多范式编程与场景选型.md) |
+| 数据结构与算法篇 | 高 | [链表翻转与 Floyd 环检测](algorithm/链表翻转与Floyd环检测.md) |
+| 计算机网络篇 | 高 | [HTTPS 的 TLS 握手流程与加密分工](network/HTTPS的TLS握手流程与加密分工.md) |
+| 设计模式篇 | 高 | [工厂方法与抽象工厂的区别及选型](design-pattern/工厂方法与抽象工厂的区别及选型.md) |
 | 存储与中间件篇 | 高 | [MySQL 四种事务隔离级别与并发问题](storage/MySQL四种事务隔离级别与并发问题.md) |
 | 存储与中间件篇 | 高 | [MySQL 索引为什么用 B+ 树？聚簇索引与非聚簇索引有什么区别？](storage/MySQL索引为什么用B+树与聚簇索引.md) |
 | 存储与中间件篇 | 高 | [缓存穿透、缓存击穿与缓存雪崩的区别及防护方案](storage/缓存穿透击穿雪崩的区别及防护方案.md) |
 | 存储与中间件篇 | 高 | [什么是覆盖索引？联合索引的最左前缀原则是什么？](storage/覆盖索引与最左前缀原则.md) |
-| Web 篇 | 高 | [PHP 框架中间件机制与洋葱模型](web/PHP框架中间件机制与洋葱模型.md) |
-| 计算机网络篇 | 高 | [HTTPS 的 TLS 握手流程与加密分工](network/HTTPS的TLS握手流程与加密分工.md) |
-| 安全篇 | 高 | [CC 攻击与应用层限流防护方案](security/CC攻击与应用层限流防护方案.md) |
-| 设计模式篇 | 高 | [工厂方法与抽象工厂的区别及选型](design-pattern/工厂方法与抽象工厂的区别及选型.md) |
-| 数据结构与算法篇 | 高 | [链表翻转与 Floyd 环检测](algorithm/链表翻转与Floyd环检测.md) |
 | 操作系统与服务器篇 | 高 | [PHP-FPM 进程模型与 FastCGI 协议](server/PHP-FPM进程模型与FastCGI协议.md) |
+| 安全篇 | 高 | [CC 攻击与应用层限流防护方案](security/CC攻击与应用层限流防护方案.md) |
+| Web 篇 | 高 | [PHP 框架中间件机制与洋葱模型](web/PHP框架中间件机制与洋葱模型.md) |
 | 番外篇 | 中 | [生产环境如何排查 Bug，以及如何在本地复现并调试](misc/生产环境排查Bug与本地调试工作流.md) |
 | 番外篇 | 低 | [AI 时代的 PHP 开发者：从工具选择到学习方法论](misc/AI时代的PHP开发者——从工具选择到学习方法论.md) |
 
-## L3 高级（9 题）
+## L3 高级（10 题）
 
 | 主题 | 频率 | 题目 |
 |---|:---:|---|
 | PHP 语言篇 | 高 | [PHP 的垃圾回收机制是如何工作的](php/PHP垃圾回收机制.md) |
+| PHP 语言篇 | 中 | [WeakReference 与 WeakMap 如何避免引用计数陷阱？](php/WeakReference与WeakMap避免引用计数陷阱.md) |
 | PHP 语言篇 | 中 | [PHP zval 内部结构是什么？写时复制（COW）机制如何工作？](php/zval内部结构与写时复制机制.md) |
+| 数据结构与算法篇 | 中 | [二分查找的统一模板：搜索边界与答案二分](algorithm/二分查找的统一模板与搜索边界.md) |
+| 计算机网络篇 | 高 | [HTTP/2 与 HTTP/3 的核心改进与底层原理](network/HTTP2与HTTP3核心改进与底层原理.md) |
+| 设计模式篇 | 中 | [里氏替换原则的行为契约与继承陷阱](design-pattern/里氏替换原则的行为契约与继承陷阱.md) |
 | 存储与中间件篇 | 高 | [MySQL 一条查询语句的完整执行流程](storage/MySQL查询语句完整执行流程.md) |
 | 存储与中间件篇 | 高 | [ORDER BY 的执行原理与性能优化](storage/ORDERBY执行原理与filesort优化.md) |
-| Web 篇 | 高 | [Laravel 服务容器（IoC）的实现原理](web/Laravel服务容器IoC实现原理.md) |
-| 计算机网络篇 | 高 | [HTTP/2 与 HTTP/3 的核心改进与底层原理](network/HTTP2与HTTP3核心改进与底层原理.md) |
 | 安全篇 | 高 | [PHP 文件上传安全与输入过滤实践](security/PHP文件上传安全与输入过滤实践.md) |
-| 设计模式篇 | 中 | [里氏替换原则的行为契约与继承陷阱](design-pattern/里氏替换原则的行为契约与继承陷阱.md) |
-| 数据结构与算法篇 | 中 | [二分查找的统一模板：搜索边界与答案二分](algorithm/二分查找的统一模板与搜索边界.md) |
+| Web 篇 | 高 | [Laravel 服务容器（IoC）的实现原理](web/Laravel服务容器IoC实现原理.md) |
 
 ## L4 资深（2 题）
 
 | 主题 | 频率 | 题目 |
 |---|:---:|---|
-| 操作系统与服务器篇 | 中 | [Swoole 协程与 PHP-FPM 的选型决策](server/Swoole协程与PHP-FPM的选型决策.md) |
 | 架构与分布式篇 | 中 | [单体拆分微服务后的分布式事务选型](architecture/单体拆分微服务后的分布式事务选型.md) |
+| 操作系统与服务器篇 | 中 | [Swoole 协程与 PHP-FPM 的选型决策](server/Swoole协程与PHP-FPM的选型决策.md) |
 
 ## L5 架构（1 题）
 

@@ -1,7 +1,0 @@
-# 客户端/服务端 IP 获取，了解代理透传 实际IP 的概念
-
-客户端IP: $\_SERVER['REMOTE_ADDR']
-
-服务端IP: $\_SERVER['SERVER_ADDR']
-
-客户端IP(代理透传): $\_SERVER['HTTP_X_FORWARDED_FOR']
