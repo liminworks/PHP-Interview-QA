@@ -1,5 +1,0 @@
-# Cookie 和 Session
-
-Cookie：PHP 透明的支持 HTTP cookie 。cookie 是一种远程浏览器端存储数据并以此来跟踪和识别用户的机制
-
-Session：会话机制(Session)在 PHP 中用于保持用户连续访问Web应用时的相关数据
