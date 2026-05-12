@@ -63,6 +63,25 @@ for (const [dir, name] of TOPICS) {
 
 export default withMermaid(defineConfig({
   title: 'PHP 面试问答',
+  head: [
+    [
+      'script',
+      {
+        async: '',
+        src: 'https://www.googletagmanager.com/gtag/js?id=G-LJKDV6FKPC',
+      },
+    ],
+    [
+      'script',
+      {},
+      [
+        'window.dataLayer = window.dataLayer || [];',
+        'function gtag(){dataLayer.push(arguments);}',
+        "gtag('js', new Date());",
+        "gtag('config', 'G-LJKDV6FKPC');",
+      ].join('\n'),
+    ],
+  ],
   description: 'PHP 中大厂面试题库，L1–L5 难度全覆盖',
   lang: 'zh-CN',
   base: '/PHP-Interview-QA/',
