@@ -3,9 +3,9 @@
 [![GitHub Repo stars](https://img.shields.io/github/stars/colinlet/PHP-Interview-QA)](https://github.com/colinlet/PHP-Interview-QA/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/colinlet/PHP-Interview-QA)](https://github.com/colinlet/PHP-Interview-QA/forks)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
-[![Questions](https://img.shields.io/badge/题目数-74-orange.svg)](#题目索引)
+[![Questions](https://img.shields.io/badge/题目数-83-orange.svg)](#题目索引)
 [![在线阅读](https://img.shields.io/badge/在线阅读-GitHub%20Pages-0969da?logo=github)](https://colinlet.github.io/PHP-Interview-QA/)
-[![Last Updated](https://img.shields.io/badge/最后更新-2026--05--11-green.svg)](#)
+[![Last Updated](https://img.shields.io/badge/最后更新-2026--05--13-green.svg)](#)
 
 > PHP 很没前途，请把工作留给我，谢谢！
 
@@ -76,7 +76,7 @@
 | 存储与中间件篇 | 🔴×3 | 🔴×5 | 🔴×2 | **10** |
 | Web 篇 | 🔴×2 | 🔴×1 | 🔴×1 | **4** |
 | 安全篇 | 🔴×1 | 🔴×1 | 🔴×1 | **3** |
-| 数据结构与算法篇 | 🔴×7 🟡×3 | 🔴×1 | 🟡×1 | **12** |
+| 数据结构与算法篇 | 🔴×7 🟡×3 | 🔴×6 | 🟡×3 🔴×2 | **21** |
 | 操作系统与服务器篇 | 🔴×1 | 🔴×1 | — | **3** |
 | 架构与分布式篇 | — | — | — | **2** |
 | 番外篇 | — | 🟡×1 | ⚪×1 | **2** |
@@ -141,6 +141,15 @@
 | L1 | 中 | [双指针判断回文字符串](docs/algorithm/双指针判断回文字符串.md) |
 | L2 | 高 | [链表翻转与 Floyd 环检测](docs/algorithm/链表翻转与Floyd环检测.md) |
 | L3 | 中 | [二分查找的统一模板：搜索边界与答案二分](docs/algorithm/二分查找的统一模板与搜索边界.md) |
+| L2 | 高 | [如何合并两条有序链表？](docs/algorithm/合并两条有序链表.md) |
+| L2 | 高 | [如何用一次遍历删除链表倒数第 N 个节点？](docs/algorithm/删除链表倒数第N个节点.md) |
+| L2 | 高 | [递归三要素是什么？如何分析递归的时间复杂度？](docs/algorithm/递归三要素与分治复杂度分析.md) |
+| L2 | 高 | [快速排序与归并排序的原理、稳定性和复杂度如何比较？](docs/algorithm/快速排序与归并排序原理对比.md) |
+| L2 | 高 | [哈希冲突的解决策略有哪些？如何用哈希表实现 LRU 缓存？](docs/algorithm/哈希冲突解决策略与LRU实现原理.md) |
+| L3 | 高 | [0/1 背包的状态转移方程如何建立？滚动数组如何优化空间？](docs/algorithm/01背包的状态转移方程如何建立与空间如何优化.md) |
+| L3 | 高 | [如何用动态规划求最长公共子序列并还原具体路径？](docs/algorithm/最长公共子序列的动态规划解法与路径还原.md) |
+| L3 | 中 | [最长递增子序列（LIS）的 O(n²) 与 O(n log n) 算法有何区别？](docs/algorithm/最长递增子序列的两种算法及复杂度对比.md) |
+| L3 | 中 | [记忆化搜索（自顶向下）与自底向上 DP 在实现和性能上有何区别？](docs/algorithm/记忆化搜索与自底向上DP的实现与性能对比.md) |
 
 ---
 
