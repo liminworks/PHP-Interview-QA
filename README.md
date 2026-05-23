@@ -49,18 +49,18 @@
 
 ## 主题导航
 
-| 主题 | 目录 | 进度 |
-|---|---|---|
-| PHP 语言篇 | [`docs/php/`](docs/php/) | 🟡 进行中 |
-| 数据结构与算法篇 | [`docs/algorithm/`](docs/algorithm/) | 🟡 进行中 |
-| 计算机网络篇 | [`docs/network/`](docs/network/) | 🟡 进行中 |
-| 设计模式篇 | [`docs/design-pattern/`](docs/design-pattern/) | 🟡 进行中 |
-| 存储与中间件篇 | [`docs/storage/`](docs/storage/) | 🟡 进行中 |
-| 架构与分布式篇 | [`docs/architecture/`](docs/architecture/) | 🟡 进行中 |
-| 操作系统与服务器篇 | [`docs/server/`](docs/server/) | 🟡 进行中 |
-| Web 篇 | [`docs/web/`](docs/web/) | 🟡 进行中 |
-| 安全篇 | [`docs/security/`](docs/security/) | 🟡 进行中 |
-| 番外篇 | [`docs/misc/`](docs/misc/) | 🟡 进行中 |
+| 主题 | 目录 |
+|---|---|
+| PHP 语言篇 | [`docs/php/`](docs/php/) |
+| 数据结构与算法篇 | [`docs/algorithm/`](docs/algorithm/) |
+| 计算机网络篇 | [`docs/network/`](docs/network/) |
+| 设计模式篇 | [`docs/design-pattern/`](docs/design-pattern/) |
+| 存储与中间件篇 | [`docs/storage/`](docs/storage/) |
+| 架构与分布式篇 | [`docs/architecture/`](docs/architecture/) |
+| 操作系统与服务器篇 | [`docs/server/`](docs/server/) |
+| Web 篇 | [`docs/web/`](docs/web/) |
+| 安全篇 | [`docs/security/`](docs/security/) |
+| 番外篇 | [`docs/misc/`](docs/misc/) |
 
 ---
 
